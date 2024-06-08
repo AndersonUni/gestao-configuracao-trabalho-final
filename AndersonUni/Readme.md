@@ -1,0 +1,1 @@
+criação da pasta usuario e os arquivos .env e credentials
